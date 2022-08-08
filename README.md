@@ -1,4 +1,4 @@
-<h1 align="center">Networking Fundamentals</h1> 
+<h1 align="center">Network Fundamentals</h1>
 
 ### Table of Contents
 
